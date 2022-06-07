@@ -22,7 +22,7 @@
             android:background="#100F0F"
             android:backgroundTint="#03F6F0F0"
             android:text="@string/saludo"
-            android:textColor="#4AED03"
+            android:textColor="#F8F8F8"
             android:textSize="14sp"
             android:visibility="visible" />
 

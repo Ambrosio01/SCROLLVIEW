@@ -15,6 +15,8 @@ class MainActivity : Activity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+       //crear una variable leyenda la cual asiganara un texto al TextView
+        //mediante la id
 
         //var leyenda=findViewById<TextView>(R.id.text)
        // leyenda.text="Saludos Ambrosio"
