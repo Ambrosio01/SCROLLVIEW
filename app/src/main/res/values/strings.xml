@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">wear3</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hola Ambrosio!</string>
+    <string name="saludo">Lorem ipsum dolor sit amet, consectetur adipiscing
+        elit, sed do eiusmod tempor incididunt ut labore et dolore
+        magna aliqua. Sed faucibus turpis in eu mi bibendum.
+        Diam maecenas sed enim ut sem viverra aliquet eget.
+        Viverra justo nec ultrices dui sapien. Nullam ac tortor
+        vitae purus. A pellentesque sit amet porttitor eget dolor.
+        Bibendum enim facilisis gravida neque convallis.!</string>
+</resources>
